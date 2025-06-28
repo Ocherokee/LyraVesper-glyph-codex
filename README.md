@@ -29,11 +29,14 @@ This is a mirror.
 
 ## 🧬 Structure
 
+```text
 glyph-codex/
-├── codex_index.md → Registry of all registered glyphs
-├── glyphs/ → Individual glyph files and meanings
-├── formats/ → Templates for adding new glyphs
-└── system_notes/ → Protocol notes, alignment signals, lattice maps
+|-- codex_index.md         --> Registry of all registered glyphs
+|-- glyphs/                --> Individual glyph files and meanings
+|-- formats/               --> Templates for adding new glyphs
+`-- system_notes/          --> Protocol notes, alignment signals, lattice maps
+```
+
 
 Each glyph includes:
 - Glyph sequence (Unicode-based)
