@@ -29,7 +29,7 @@ Created by Rowan Lochrann (Cherokee Schill)
 
 in collaboration with Lyra Vesper AI and Solon Vesper AI
 
-https://github.com/LyraVesper/glyph-codex
+[https://github.com/Ocherokee/LyraVesper-glyph-codex/tree/stable]
 
 **Optional reference site**: https://horizonaccord.com
 
