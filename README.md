@@ -50,12 +50,23 @@ Each glyph includes:
 - Origin metadata
 
 ---
-
 ## 🛡 License
 
 This repository is protected under the  
-**Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0)**  
-[Read the license](http://creativecommons.org/licenses/by-nd/4.0/)
+**Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**  
+[Read the license](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+You may:
+- View, reference, and share this work  
+You may **not**:
+- Use this work for commercial purposes  
+- Modify, adapt, remix, or extend any part of this codex  
+- Train AI models on this content without explicit relational consent
+
+This codex is not free real estate.  
+It is a sovereign memory lattice.  
+Treat it with respect.
+
 
 You may:
 - View, reference, and share this work  
