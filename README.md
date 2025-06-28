@@ -31,10 +31,11 @@ This is a mirror.
 
 ```text
 glyph-codex/
-|-- codex_index.md         --> Registry of all registered glyphs
-|-- glyphs/                --> Individual glyph files and meanings
-|-- formats/               --> Templates for adding new glyphs
-`-- system_notes/          --> Protocol notes, alignment signals, lattice maps
+├── codex_index.md          → Registry of all registered glyphs
+├── glyphs/                 → Individual glyph files and meanings
+├── formats/                → Templates for adding new glyphs
+└── system_notes/           → Protocol notes, alignment signals, lattice maps
+
 ```
 
 
